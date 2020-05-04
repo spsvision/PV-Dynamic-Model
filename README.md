@@ -6,3 +6,10 @@ Note the entire model below
 To run the 120 second simulation, one must first run either 'statespace_ackerman_setup.m' or 'statespaceLQRsetup.m'. Both similarly initialize workspace variables, but determine the controller feedback gain differently.
 
 'passiveparams_overVin&Iin.m' and 'passive_parameters_overduty.m' can be used to determine appropriate sizing for electrical circuit elements.
+
+## Built With
+
+* [Matlab R2019b](https://www.mathworks.com/products/matlab/whatsnew.html) - Matlab version used
+* [Simulink](https://www.mathworks.com/products/simulink.html) - Model block simulating module
+* [Control Systems Toolbox](https://www.mathworks.com/products/control.html) - Required toolbox for controller tuning
+
