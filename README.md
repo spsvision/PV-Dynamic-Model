@@ -10,6 +10,6 @@ To run the 120 second simulation, one must first run either 'statespace_ackerman
 ## Built With
 
 * [Matlab R2019b](https://www.mathworks.com/products/matlab/whatsnew.html) - Matlab version used
-* [Simulink](https://www.mathworks.com/products/simulink.html) - Model block simulating module
+* [Simulink](https://www.mathworks.com/products/simulink.html) - Model block simulating module (Version 10.0)
 * [Control Systems Toolbox](https://www.mathworks.com/products/control.html) - Required toolbox for controller tuning
 
